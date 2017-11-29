@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe8a6dc-b57f-4821-af36-d83a040b1ba0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/main/java/de/malvik/Entrypoint.java" afterPath="$PROJECT_DIR$/server/src/main/java/de/malvik/Entrypoint.java" />
-    </list>
+    <list default="true" id="bfe8a6dc-b57f-4821-af36-d83a040b1ba0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/server/target/" />
@@ -772,12 +769,12 @@
       <workItem from="1511437385058" duration="379000" />
       <workItem from="1511437815050" duration="684000" />
       <workItem from="1511776541526" duration="10499000" />
-      <workItem from="1511987017883" duration="2746000" />
+      <workItem from="1511987017883" duration="2970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14308000" />
+    <option name="totallyTimeSpent" value="14532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
