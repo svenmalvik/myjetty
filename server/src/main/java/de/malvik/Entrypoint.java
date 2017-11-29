@@ -10,15 +10,11 @@ import javax.ws.rs.core.MediaType;
  */
 @Path("/ep")
 public class Entrypoint {
-
-    /**
-     * http://localhost:8080/api/ep/1
-     */
+    // http://localhost:8080/api/ep/1
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     @Path("1")
     public String endpoint1() {
         return "Hallo form endpoint1";
     }
-
 }
