@@ -9,6 +9,5 @@
     <modules>
         <module>server</module>
         <module>webapp</module>
-    <module>webapp2</module>
   </modules>
 </project>
