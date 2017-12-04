@@ -1,2 +1,5 @@
-de\malvik\JettyServer.class
-de\malvik\handler\PingHandler.class
+de\malvik\PingHandler.class
+de\malvik\App.class
+de\malvik\AppResourceConfig.class
+de\malvik\Entrypoint.class
+de\malvik\Endpoint2.class

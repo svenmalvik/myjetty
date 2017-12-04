@@ -1,2 +1,5 @@
-C:\git\myjetty\server\src\main\java\de\malvik\handler\PingHandler.java
-C:\git\myjetty\server\src\main\java\de\malvik\JettyServer.java
+C:\git\myjetty\server\src\main\java\de\malvik\AppResourceConfig.java
+C:\git\myjetty\server\src\main\java\de\malvik\Entrypoint.java
+C:\git\myjetty\server\src\main\java\de\malvik\Endpoint2.java
+C:\git\myjetty\server\src\main\java\de\malvik\App.java
+C:\git\myjetty\server\src\main\java\de\malvik\PingHandler.java

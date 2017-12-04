@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe8a6dc-b57f-4821-af36-d83a040b1ba0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/target/webapp/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/target/webapp/META-INF/maven/de.malvik/webapp/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/target/webapp/META-INF/maven/de.malvik/webapp/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/target/webapp/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/target/webapp.war" afterPath="$PROJECT_DIR$/webapp/target/webapp.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/pom.xml" afterPath="$PROJECT_DIR$/server/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server.iml" afterPath="$PROJECT_DIR$/server/server.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-de.malvik.AppTest.xml" afterPath="$PROJECT_DIR$/server/target/surefire-reports/TEST-de.malvik.AppTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/surefire-reports/de.malvik.AppTest.txt" afterPath="$PROJECT_DIR$/server/target/surefire-reports/de.malvik.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/webapp/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,7 +52,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,8 +135,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+            <state relative-caret-position="751">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -827,12 +841,12 @@
       <workItem from="1511776541526" duration="10499000" />
       <workItem from="1511987017883" duration="3181000" />
       <workItem from="1512137107705" duration="280000" />
-      <workItem from="1512388872518" duration="1598000" />
+      <workItem from="1512388872518" duration="2322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16621000" />
+    <option name="totallyTimeSpent" value="17345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -933,7 +947,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -977,7 +993,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1021,7 +1039,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1054,7 +1074,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1112,7 +1134,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1187,8 +1211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        <state relative-caret-position="751">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
